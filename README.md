@@ -3,14 +3,19 @@
 <!--
 **DavidRNMR/DavidRNMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Java Developer!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Learn as much as posible :)
+
+
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,spring,sql,sass)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,oracle,git,vscode,intellij,oracle,gitlab)](https://skillicons.dev)
+
+---
+
