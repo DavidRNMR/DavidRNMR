@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,vscode,idea,eclipse,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,vscode,idea,eclipse,github,gitlab,linux)](https://skillicons.dev)
 
 ---
 
