@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ## I'm a Java Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Spring(Java) and other tecnologies.
+- 🥅 2022 Goals: Learn more about Spring(Java) and other tecnologies like Docker and Kubernetes.
 
 
 ### Languages
