@@ -4,10 +4,10 @@
 DavidRNMR/DavidRNMR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## I'm a Java Developer!!
+## I'm a Back-End Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Spring(Java) and other tecnologies like Docker and Kubernetes.
+- 🥅 2022 Goals: Learn back-end as much as posible.
 
 [![hotmail Badge](https://img.shields.io/badge/-davidriv_13@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidriv_13@hotmail.com)](mailto:davidriv_13@hotmail.com)
 ### Languages
