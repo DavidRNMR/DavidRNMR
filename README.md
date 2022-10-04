@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ## I'm a Back-End Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn back-end as much as posible.
+- 🥅 2022 Goals: still learning back-end and have a solid base in JavasCript.
 
 [![hotmail Badge](https://img.shields.io/badge/-davidriv_13@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidriv_13@hotmail.com)](mailto:davidriv_13@hotmail.com)
 ### Languages
