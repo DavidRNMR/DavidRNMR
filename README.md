@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 [![hotmail Badge](https://img.shields.io/badge/-davidriv_13@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidriv_13@hotmail.com)](mailto:davidriv_13@hotmail.com)
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,vscode,idea,eclipse,github,gitlab,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,vscode,idea,eclipse,github,gitlab,linux,postgresql,mongodb)](https://skillicons.dev)
 
 ---
 
